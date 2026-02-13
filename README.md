@@ -11,6 +11,13 @@ The analysis was performed in **Microsoft Excel** using features such as **VLOOK
 
 ---
 
+## Data Source
+The dataset used in this project was obtained from **Toronto Open Data**:
+
+- [Registered Programs and Drop-in Courses Offering](https://open.toronto.ca/dataset/registered-programs-and-drop-in-courses-offering/)
+  
+---
+
 ## Data Description
 The Excel file contains the following sheets:
 
