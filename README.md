@@ -71,3 +71,5 @@ This project demonstrates the ability to:
 
 ---
 
+![Toronto Parks Dashboard](VisualInsightsTorontoPark.png)
+
